@@ -1,1 +1,1 @@
-# airbnb-clone
+# Responsive clone of Airbnb's homepage
